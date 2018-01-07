@@ -19,10 +19,10 @@
 #
 ##############################################################################
 {
-    "name": "Currency Rate Update",
-    "version": "8.0.0.8.0",
-    "author": "Camptocamp,Odoo Community Association (OCA)",
-    "website": "http://camptocamp.com",
+    "name": "Crypto currency updater",
+    "version": "8.0.0.1.0",
+    "author": "eHanse It Consulting",
+    "website": "wwww.ehanse.de",
     "license": "AGPL-3",
     "category": "Financial Management/Configuration",
     "depends": [
